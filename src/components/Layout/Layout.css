@@ -1,0 +1,15 @@
+.layout {
+    padding: 20px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .layout.light {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .layout.dark {
+    background-color: #333333;
+    color: #ffffff;
+  }
+  
